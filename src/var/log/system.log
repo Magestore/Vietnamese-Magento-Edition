@@ -1,0 +1,2 @@
+2016-11-17T02:58:21+00:00 ERR (3): Warning: include(): Filename cannot be empty  in /opt/lampp/htdocs/lme/src/app/code/core/Mage/Core/Block/Template.php on line 241
+2016-11-17T02:58:21+00:00 ERR (3): Warning: include(): Failed opening '' for inclusion (include_path='/opt/lampp/htdocs/lme/src/app/code/local:/opt/lampp/htdocs/lme/src/app/code/community:/opt/lampp/htdocs/lme/src/app/code/core:/opt/lampp/htdocs/lme/src/lib:.:/opt/lampp/lib/php')  in /opt/lampp/htdocs/lme/src/app/code/core/Mage/Core/Block/Template.php on line 241

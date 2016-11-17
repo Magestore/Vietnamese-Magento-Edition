@@ -1,0 +1,337 @@
+
+<div class="nav-bar">
+<!-- menu start -->
+<ul id="nav">
+<li  class=" active   level0"> <a href="http://blanka.com/lme/src/index.php/admin/dashboard/index/key/$dashboard/index$/"   class="active"><span>Bảng điều khiển</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  magento_localized  parent level0"> <a href="http://blanka.com/lme/src/index.php/admin/magentoLocalized/index/key/$magentoLocalized/index$/"   class=""><span>Magento VN</span></a>
+<ul >
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/magentoLocalized/index/key/$magentoLocalized/index$/"   class=""><span>Giao diện điều khiển</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/magentoLocalized/partner/key/$magentoLocalized/partner$/"   class=""><span>Đối tác</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/magentoLocalized/suggestions/key/$magentoLocalized/suggestions$/"   class=""><span>Gợi ý</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/magentoLocalized/news/key/$magentoLocalized/news$/"   class=""><span>News</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/magentoLocalized/form/key/$magentoLocalized/form$/"   class=""><span>Cấu hình</span></a>
+</li>
+<li  class="   last level1"> <a href="http://blanka.com/lme/src/index.php/admin/magentoLocalized/support/key/$magentoLocalized/support$/"   class=""><span>Trung tâm hỗ trợ</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Bán hàng</span></a>
+<ul >
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/sales_order/index/key/$sales_order/index$/"   class=""><span>Đơn hàng</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/sales_invoice/index/key/$sales_invoice/index$/"   class=""><span>Hóa đơn</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/sales_shipment/index/key/$sales_shipment/index$/"   class=""><span>Gói hàng</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/sales_creditmemo/index/key/$sales_creditmemo/index$/"   class=""><span>Hoàn tiền</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/sales_transactions/index/key/$sales_transactions/index$/"   class=""><span>Giao dịch</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/sales_recurring_profile/index/key/$sales_recurring_profile/index$/"   class=""><span>Hồ sơ định kỳ (bản thử)</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/sales_billing_agreement/index/key/$sales_billing_agreement/index$/"   class=""><span>Thỏa thuận thanh toán</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/checkout_agreement/index/key/$checkout_agreement/index$/"   class=""><span>Điều khoản và điều kiện</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent last level1"> <a href="#"  onclick="return false" class=""><span>Thuế</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/tax_rule/index/key/$tax_rule/index$/"   class=""><span>Quản lý quy tắc thuế</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/tax_rate/index/key/$tax_rate/index$/"   class=""><span>Quản lý tỷ giá và vùng thuế</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/tax_rate/importExport/key/$tax_rate/importExport$/"   class=""><span>Nhập/Xuất thuế suất</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/tax_class_customer/index/key/$tax_class_customer/index$/"   class=""><span>Các loại thuế khách hàng</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/tax_class_product/index/key/$tax_class_product/index$/"   class=""><span>Loại thuế sản phẩm</span></a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Danh mục hàng</span></a>
+<ul >
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/catalog_product/index/key/$catalog_product/index$/"   class=""><span>Quản lý sản phẩm</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/catalog_category/index/key/$catalog_category/index$/"   class=""><span>Quản lý các loại mặt hàng</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Các thuộc tính</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/catalog_product_attribute/index/key/$catalog_product_attribute/index$/"   class=""><span>Quản lý các thuộc tính</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/catalog_product_set/index/key/$catalog_product_set/index$/"   class=""><span>Quản lý các tập thuộc tính</span></a>
+</li>
+</ul>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/urlrewrite/index/key/$urlrewrite/index$/"   class=""><span>Quản lý ghi đè URL</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/catalog_search/index/key/$catalog_search/index$/"   class=""><span>Từ khóa tìm kiếm</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Đánh giá và xếp hạng</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level2"> <a href="#"  onclick="return false" class=""><span>Đánh giá của khách hàng</span></a>
+<ul >
+<li  class="   level3"> <a href="http://blanka.com/lme/src/index.php/admin/catalog_product_review/pending/key/$catalog_product_review/pending$/"   class=""><span>Đánh giá đang chờ xử lý</span></a>
+</li>
+<li  class="   last level3"> <a href="http://blanka.com/lme/src/index.php/admin/catalog_product_review/index/key/$catalog_product_review/index$/"   class=""><span>Tất cả đánh giá</span></a>
+</li>
+</ul>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/rating/index/key/$rating/index$/"   class=""><span>Quản lý xếp hạng</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Thẻ</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/tag/index/key/$tag/index$/"   class=""><span>Tất cả thẻ</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/tag/pending/key/$tag/pending$/"   class=""><span>Thẻ chờ xử lý</span></a>
+</li>
+</ul>
+</li>
+<li  class="   last level1"> <a href="http://blanka.com/lme/src/index.php/admin/sitemap/index/key/$sitemap/index$/"   class=""><span> Sơ đồ trang web Google</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Khách hàng</span></a>
+<ul >
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/customer/index/key/$customer/index$/"   class=""><span>Quản lý khách hàng</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/customer_group/index/key/$customer_group/index$/"   class=""><span>Nhóm khách hàng</span></a>
+</li>
+<li  class="   last level1"> <a href="http://blanka.com/lme/src/index.php/admin/customer_online/index/key/$customer_online/index$/"   class=""><span>Khách hàng online</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Khuyến mãi</span></a>
+<ul >
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/promo_catalog/index/key/$promo_catalog/index$/"   class=""><span>Quy tắc giá theo danh mục hàng</span></a>
+</li>
+<li  class="   last level1"> <a href="http://blanka.com/lme/src/index.php/admin/promo_quote/index/key/$promo_quote/index$/"   class=""><span>Quy tắc giá theo giỏ hàng</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Bản tin</span></a>
+<ul >
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/newsletter_template/index/key/$newsletter_template/index$/"   class=""><span>Mẫu bản tin</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/newsletter_queue/index/key/$newsletter_queue/index$/"   class=""><span>Danh sách bản tin</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/newsletter_subscriber/index/key/$newsletter_subscriber/index$/"   class=""><span>Người đăng ký theo dõi bản tin</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/newsletter_problem/index/key/$newsletter_problem/index$/"   class=""><span>Báo cáo bản tin có vấn đề</span></a>
+</li>
+<li  class="   last level1"> <a href="http://blanka.com/lme/src/index.php/admin/newsletter/index/key/$newsletter/index$/"   class=""><span>Newsletter Subscribers Status History</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>CMS</span></a>
+<ul >
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/cms_page/index/key/$cms_page/index$/"   class=""><span>Các trang</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/cms_block/index/key/$cms_block/index$/"   class=""><span>Khối tĩnh</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/widget_instance/index/key/$widget_instance/index$/"   class=""><span>Widgets</span></a>
+</li>
+<li  class="   last level1"> <a href="http://blanka.com/lme/src/index.php/admin/poll/index/key/$poll/index$/"   class=""><span>Các bình chọn</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Quản lý khu vực</span></a>
+<ul >
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/regionmanager_region/index/key/$regionmanager_region/index$/"   class=""><span>Quản lý khu vực</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/regionmanager_city/index/key/$regionmanager_city/index$/"   class=""><span>Manage City</span></a>
+</li>
+<li  class="   last level1"> <a href="http://blanka.com/lme/src/index.php/admin/system_config/edit/section/regionmanager/key/$system_config/edit$/"   class=""><span>Cài đặt</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Giao Hàng Nhanh</span></a>
+<ul >
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/giaohangnhanh/index/key/$giaohangnhanh/index$/"   class=""><span>Quản Lý Giao Hàng</span></a>
+</li>
+<li  class="   last level1"> <a href="http://blanka.com/lme/src/index.php/admin/system_config/edit/section/carriers/key/$system_config/edit$/"   class=""><span>Cấu Hình</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Báo cáo</span></a>
+<ul >
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Doanh thu</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_sales/sales/key/$report_sales/sales$/"   class=""><span>Đơn hàng</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_sales/tax/key/$report_sales/tax$/"   class=""><span>Thuế</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_sales/invoiced/key/$report_sales/invoiced$/"   class=""><span>Lập hóa đơn</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_sales/shipping/key/$report_sales/shipping$/"   class=""><span>Vận chuyển</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_sales/refunded/key/$report_sales/refunded$/"   class=""><span>Hoàn tiền</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_sales/coupons/key/$report_sales/coupons$/"   class=""><span>Phiếu giảm giá</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/paypal_reports/index/key/$paypal_reports/index$/"   class=""><span>Báo cáo giải quyết PayPal</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Giỏ hàng</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_shopcart/product/key/$report_shopcart/product$/"   class=""><span>Sản phẩm trong giỏ</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_shopcart/abandoned/key/$report_shopcart/abandoned$/"   class=""><span>Giỏ hàng trống</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Sản phẩm</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_sales/bestsellers/key/$report_sales/bestsellers$/"   class=""><span>Sản phẩm bán chạy</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_product/sold/key/$report_product/sold$/"   class=""><span>Sản phẩm đã đặt hàng</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_product/viewed/key/$report_product/viewed$/"   class=""><span>Được xem nhiều nhất</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_product/lowstock/key/$report_product/lowstock$/"   class=""><span>Hàng số lượng ít</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_product/downloads/key/$report_product/downloads$/"   class=""><span>Tải về</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Khách hàng</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_customer/accounts/key/$report_customer/accounts$/"   class=""><span>Tài khoản mới</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_customer/totals/key/$report_customer/totals$/"   class=""><span>Khách hàng bởi tổng đơn hàng</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_customer/orders/key/$report_customer/orders$/"   class=""><span>Khách hàng theo số lượng đơn hàng</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Thẻ</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_tag/customer/key/$report_tag/customer$/"   class=""><span>Khách hàng</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_tag/product/key/$report_tag/product$/"   class=""><span>Sản phẩm</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_tag/popular/key/$report_tag/popular$/"   class=""><span>Phổ biến</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Đánh giá</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_review/customer/key/$report_review/customer$/"   class=""><span>Đánh giá của khách hàng</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/report_review/product/key/$report_review/product$/"   class=""><span>Đánh giá sản phẩm</span></a>
+</li>
+</ul>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/report/search/key/$report/search$/"   class=""><span>Nhu cầu tìm kiếm</span></a>
+</li>
+<li  class="   last level1"> <a href="http://blanka.com/lme/src/index.php/admin/report_statistics/index/key/$report_statistics/index$/"   class=""><span>Làm mới thống kê</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level0"> <a href="#"  onclick="return false" class=""><span>Hệ thống</span></a>
+<ul >
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/magesetup/index/key/$magesetup/index$/"   class=""><span>MageSetup</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/system_account/index/key/$system_account/index$/"   class=""><span>Tài khoản của tôi</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/notification/index/key/$notification/index$/"   class=""><span>Thông báo</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Công cụ</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/system_backup/index/key/$system_backup/index$/"   class=""><span>Bản sao lưu</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/compiler_process/index/key/$compiler_process/index$/"   class=""><span>Biên dịch</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Các dịch vụ Web</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/api_user/index/key/$api_user/index$/"   class=""><span>SOAP/XML-RPC - Người sử dụng</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/api_role/index/key/$api_role/index$/"   class=""><span>SOAP/XML-RPC - Vai trò</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/api2_role/index/key/$api2_role/index$/"   class=""><span>REST - Roles</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/api2_attribute/index/key/$api2_attribute/index$/"   class=""><span>REST - Attributes</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/oauth_consumer/index/key/$oauth_consumer/index$/"   class=""><span>REST - Khách hàng OAuth</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/oauth_authorizedTokens/index/key/$oauth_authorizedTokens/index$/"   class=""><span>REST - Tokens đã xác thực OAuth</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/oauth_admin_token/index/key/$oauth_admin_token/index$/"   class=""><span>REST - Đơn của tôi</span></a>
+</li>
+</ul>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/system_design/index/key/$system_design/index$/"   class=""><span>Thiết kế</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Nhập/Xuất</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/import/index/key/$import/index$/"   class=""><span>Nhập thông tin</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/export/index/key/$export/index$/"   class=""><span>Xuất dữ liệu</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/system_convert_gui/index/key/$system_convert_gui/index$/"   class=""><span>Luồng dữ liệu - Hồ sơ</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/system_convert_profile/index/key/$system_convert_profile/index$/"   class=""><span>Luồng dữ liệu - Hồ sơ chi tiết</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="http://blanka.com/lme/src/index.php/admin/system_currency/index/key/$system_currency/index$/"   class=""><span>Quản lý ngoại tệ</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/system_currency/index/key/$system_currency/index$/"   class=""><span>Giá</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/system_currencysymbol/index/key/$system_currencysymbol/index$/"   class=""><span>Các biểu tượng</span></a>
+</li>
+</ul>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/system_email_template/index/key/$system_email_template/index$/"   class=""><span>Email giao dịch</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/system_variable/index/key/$system_variable/index$/"   class=""><span>Tùy chỉnh biến</span></a>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Sự cấp phép</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/permissions_user/index/key/$permissions_user/index$/"   class=""><span>Người dùng</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/permissions_role/index/key/$permissions_role/index$/"   class=""><span>Vai trò</span></a>
+</li>
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/permissions_variable/index/key/$permissions_variable/index$/"   class=""><span>Variables</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/permissions_block/index/key/$permissions_block/index$/"   class=""><span>Blocks</span></a>
+</li>
+</ul>
+</li>
+<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="   parent level1"> <a href="#"  onclick="return false" class=""><span>Magento Connect</span></a>
+<ul >
+<li  class="   level2"> <a href="http://blanka.com/lme/src/index.php/admin/extension_local/index/key/$extension_local/index$/"   class=""><span>Người quản lý Magento Connect</span></a>
+</li>
+<li  class="   last level2"> <a href="http://blanka.com/lme/src/index.php/admin/extension_custom/index/key/$extension_custom/index$/"   class=""><span>Đóng gói phần mềm mở rộng</span></a>
+</li>
+</ul>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/cache/index/key/$cache/index$/"   class=""><span>Quản lý bộ nhớ đệm</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/process/list/key/$process/list$/"   class=""><span>Quản lý chỉ mục</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/system_store/index/key/$system_store/index$/"   class=""><span>Quản lý cửa hàng</span></a>
+</li>
+<li  class="   level1"> <a href="http://blanka.com/lme/src/index.php/admin/sales_order_status/index/key/$sales_order_status/index$/"   class=""><span>Trạng thái đơn hàng</span></a>
+</li>
+<li  class="   last level1"> <a href="http://blanka.com/lme/src/index.php/admin/system_config/index/key/$system_config/index$/"   class=""><span>Cấu hình</span></a>
+</li>
+</ul>
+</li>
+</ul>
+<!-- menu end -->
+
+    <a id="page-help-link" href="http://blanka.com/lme/src/index.php/admin/magentoLocalized/support/key/1f8839eee63cd800cac271b58af6e190/">Trung tâm hỗ trợ</a>
+    <script type="text/javascript">$('page-help-link').target = 'magento_page_help'</script>
+
+</div>

@@ -1,0 +1,9 @@
+{
+   "name": "magestore/magento-translation-vi_vn",
+   "type": "magento-module",
+   "description": "Vietnamese Translation package",
+   "homepage": "https://github.com/Magestore/Vietnamese-Language-Pack.git",
+   "require": {
+      "magento-hackathon/magento-composer-installer": "*"
+   }
+}

@@ -1,0 +1,114 @@
+Localized Magento Editions,Magento phiên bản Việt hóa
+Partners - Localized Magento Editions,Đối tác - Magento phiên bản Việt hóa
+Dashboard - Localized Magento Editions,Giao diện điều khiển - Magento phiên bản Việt hóa
+Suggestions - Localized Magento Editions,Gợi ý - Magento phiên bản Việt hóa
+Partners,Đối tác
+Dashboard,Giao diện điều khiển
+Suggestions,Gợi ý
+Please enter your data:,Xin hãy nhập dữ liệu của bạn:
+Shop Data,Dữ liệu Cửa hàng
+Magento was prepared successfully. Please log out and log in again in order to access the newly installed modules.,Nền tảng Magento được cài đặt thành công. Vui lòng thoát ra và đăng nhập lại để truy cập vào các mô-đun mới được cài đặt.
+Your data was saved successfully.,Dữ liệu của bạn đã được lưu thành công
+"After completion of this order, please transfer the order amount to: %s, Account %s, Bank number %s, %s (IBAN %s, SWIFT %s)","Sau khi đơn hàng được hoàn thành , vui lòng chuyển khoản số tiền đến: %s, tài khoản %s, mã ngân hàng %s, số tài khoản %s, %s (IBAN %s, SWIFT %s)"
+"After completion of this order, please transfer the order amount to: %s, Account %s, Bank number %s, %s","Sau khi đơn hàng được hoàn thành, vui lòng chuyển khoản số tiền đến: %s, tài khoản %s, mã ngân hàng %s, %s"
+PayPal Merchant Account Email Address,Email Tài khoản Paypal Merchant
+Store Languages,Ngôn ngữ hiển thị
+Create Additional Store Languages,Thêm ngôn ngữ hiển thị
+German,Tiếng Đức
+English,Tiếng Anh
+French,Tiếng Pháp
+Italian,Tiếng Ý
+Russian,Tiếng Nga
+%s language will be created automatically.,%s ngôn ngữ sẽ được tạo lập tự động
+Default Category,Danh mục mặc định
+Display Logo in Header,Hiển thị Logo ở Tiêu đề trang
+Display Entry in Menu,Hiển thị Tiểu mục ở phần Mục lục
+Display Block in Dashboard,Hiển thị Khối trong Giao diện điều khiển
+optional,không bắt buộc
+Dashboard,Giao diện điều khiển
+Partners,Đối tác
+Recommendations,Khuyến nghị
+Integrated Modules,Các mô-đun được tích hợp
+Install the following modules:,Cài đặt các mô-đun sau:
+Click for more information in a new window,Click để xem chi tiết trong cửa sổ mới
+Don't install additional modules,Không cài đặt các mô-đun bổ sung
+Install default modules,Cài đặt các mô-đun mặc định
+Choose which modules you want to install (Advanced Mode),Chọn mô-đun bạn muốn cài đặt (chế độ Nâng cao)
+Successfully updated module %s.,Cập nhập mô-đun thành công.
+,
+Help to improve %s - data transfer,Giúp nâng cấp %s - truyền dữ liệu
+"The Localized Magento Editions (LME) are a project by the Community for the Community. The editions were created to make the start into Magento as simple as possible. The project was initiated by the Netresearch App Factory. With integer_net there are experienced and dedicated developers for the lead of implementationin the team, who have integrated the most important and best exensions together with the Community.","Magento phiên bản Việt hóa là dự án do cộng đồng đóng góp và dành cho cộng đồng. Các phiên bản được hình thành với mục đích hỗ trợ quá trình tiếp cận ban đầu với nề tảng Magento một cách dễ dàng nhất. Dự án được khởi xướng bởi Netresearch App Factory. Cùng với integer_net, những nhà phát triển có kinh nghiệm và tâm huyết với việc dẫn đầu quá trình triển khai đã và đang tích hợp những mô-đun quan trọng và tốt nhất cho cộng đồng."
+"To track the distribution of the Localized Magento Editions, the system transmits requests with an identifier of the partner, through whom you purchased the system. You can find the responsible file under %s. It will not involve the collection of any user-related data.","Để theo dõi sự phân bố của Magento phiên bản Việt hóa, hệ thống gửi các yêu cầu kèm theo danh tính của đối tác, đơn vị mà thông quá đó bạn mua hệ thống. Bạn có thể tìm thấy tập tin điều khoản trách nhiệm dưới %s. Nội dung không bao gồm tập hợp dữ liệu của người dùng liên quan."
+"With your consent, the transmission of usage and contact information by the Edition you can help developers and community partners actively to track the distribution of the Localized Magento Editions to develop the installation furhter and to continually improve it. Thus you and other merchants benefit from a current and attractive system and from the regular adjustments.","Khi có sự đồng ý của bạn, việc gửi quá trình sử dụng và thông tin liên lạc dựa trên phiên bản có thể giúp  nhà phát triển mô-đun và các bên đối tác Magento chủ động theo dõi sự phân bố phiên bản Magento Việt hóa nhằm hỗ trợ phát triển việc cài đặt tốt hơn và tiếp tục hoàn thiện trong phiên bản tiếp theo. Như vậy, bạn và các chủ doanh nghiệp khác được hưởng lợi từ hệ thống hiện tại và cả các điều chỉnh thường xuyên sau đó.   "
+"Of course, you can decide yourself which amount of data for transmission you want to allow to be sent how much you want to support the further developement. The project is generally only interested in information about the use of the installation and if necessary in contact details from your official imprint. There will not be any further collection of data.",Bạn có thể lựa chọn dữ liệu và mức độ chuyển giao dữ liệu theo ý muốn tùy thuộc vào mức độ  hỗ trợ phát triển mà bạn mong muốn nhận được. Dự án thường chỉ quan tâm tới các thông tin về việc sử dụng cài đặt và thông tin liên lạc chính thức nếu cần. Ngoài ra không có thêm bất kì yêu cầu bắt buộc nào về việc thu thập bộ thông tin.
+Thanks in advance for your help.,Chân thành cảm ơn vì sự hợp tác.
+I don't want any further transfer of data.,Tôi không muốn có bất kỳ quá trình chuyển giao dữ liệu nào.
+See data of the transmission,Xem dữ liệu được chuyển giao
+I help to observe the distribution of the Localized Magento Editions and want to benefit from the exclusive offerings of NR App Factory & your partners.,Tôi hỗ trợ quá trình theo dõi sự phân bố của Magento phiên bản Việt hóa & muốn được hưởng lợi từ các ưu đãi đặc biệt từ NR App Factory & các bên đối tác.
+This could be your exclusive offers,Đây có thể là ưu đãi đặc biệt dành cho bạn
+Offers could be for example:,"Ví dụ, ưu đãi có thể là:"
+Special conditions when purchasing extensions or services from the NAF store nr.apps.com,"Các điều kiện đặc biệt khi mua các giải pháp, mô-đun và dịch vụ từ Magestore www.magestore.com"
+"Purchase options and special conditions for Magento event tickes, e.g. Meet Magento or Developers Paradise","Các lựa chọn mua hàng và ưu đãi đặc biệt đối với vé sự kiện Magento, ví dụ: Meet Magento hoặc Developers Paradise"
+"Purchase options and special conditions for Magento education tickets, e.g. NR Campus","Các lựa chọn mua hàng và ưu đãi đặc biệt đối với vé tham gia buổi thông tin Magento, ví dụ: NR Campus"
+Showing your shop name and a link to your domain on nr-apps.com,Hiển thị tên cửa hàng và đường dẫn đến trang magestore.com
+and many more,và nhiều hơn nữa
+"For your personal offers and information about %s, please see the newsfeed of your system.","Về các ưu đãi cá nhân và các thông tin về %s, vui lòng xem thông tin cập nhập trên hệ thống của bạn."
+I hereby agree that contact information are transmitted to verify the reach of the Localized Magento Editions and actively support the project.,Tôi đồng ý với việc thông tin liên lạc được chuyển giao nhằm xác nhận phạm vi ảnh hưởng của Magento phiên bản Việt hóa và thể hiện sự ủng hộ tích cực cho dự án.
+Server IP,IP hệ thống
+Transfer date,Ngày chuyển giao 
+Magento version,Magento phiên bản
+"Contact information: Store name, company, address, postal code, city, country, telephone, fax, email, website, CEO, owner","Thông tin liên lạc: tên cửa hàng, công ty, địa chỉ, mã bưu điện, thành phố, quốc gia, điện thoại, fax, email, trang web, giám đốc điều hành, chủ cửa hàng"
+"For more information about privacy, click <a href=""%s"" target=""_blank"">here</a>.","Để biết thêm thông tin về quyền bảo mật riêng tư, truy cập <a href=""%s"" target=""_blank"">tại đây</a>"
+,
+News cannot be displayed at the moment. Please try again later.,Tin tức cập nhập không thể hiển thị trong lúc này. Vui lòng thử lại.
+"Store ""%s"" already exists.","Kho hàng ""%s"" đã tồn tại."
+,
+FireGento German Setup,Cài đặt FireGento bản tiếng Đức
+Extension Setup,Cài đặt phần mềm mở rộng
+Tax Settings,Cài đặt Thuế
+Checkout Agreements,Điều khoản Thanh toán
+,
+FireGento PDF,FireGento PDF
+,
+Autoshipping,Tự động giao hàng
+,
+Cash On Delivery,Thanh toán khi giao hàng
+,
+Debit,Ghi nợ
+Bank Data Setup,Cài đặt Dữ liệu Ngân hàng
+,
+Remove Customer Account Links,Loại bỏ các đường dẫn Tài khoản Khách hàng
+,
+Configuration,Cài đặt cấu hình
+,
+Display Copyright Notice in Imprint,Hiển thị Thông báo Bản quyền trong mục ghi chú thông tin phát hành
+"<a href=""%s"" target=""_blank"">%s</a> is a project of the Magento community","<a href=""%s"" target=""_blank"">%s</a> là một dự án của cộng đồng Magento"
+powered by,Được cung cấp bởi
+,
+Phoenix_CashOnDelivery::You will be charged an extra fee of %s.,Phoenix_Thanhtoantructiep::Bạn cần phải trả thêm phụ phí %s.
+,
+This could take a little while,Xin đợi trong giây lát
+Country Selection,Chọn Quốc gia
+Please go to Backend now in order to complete the preconfiguration.,Vui lòng truy cập phần Backend để hoàn thành quá trình cài đặt cấu hình.
+,
+Next Page,Trang sau
+Previous Page,Trang trước
+Setup %s,Cài đặt %s
+%s Setup,%s cài đặt
+Page %s of %s,Trang %s trên %s
+"Languages, Modules, Datatransfer","Ngôn ngữ, Mô-đun, Truyền dữ liệu"
+"Modules, Datatransfer","Mô-đun, Truyền dữ liệu"
+,
+An error occured. Please provide write access to the whole Magento directory and all subdirectories.,Có lỗi xảy ra. Vui lòng cung cấp truy cập ghi tới toàn bộ thư mục chính và thư mục nhánh Magento.
+,
+Please note:,Chú ý:
+"By clicking on the button ""Continue"" you will start the installation of the Localized Magento Edition %s. This process runs in the background.","Bằng việc nhấn ""Tiếp tục"" bạn bắt đầu cài đặt phiên bản Magento Việt hóa %s. Quá trình cài đặt chạy trong background."
+Please be patient. The installation may take up to 5 minutes.,Xin vui lòng chờ đợi. Việc cài đặt có thể kéo dài trong 5 phút. 
+Please keep your browser open. DO NOT RELOAD the page before completion of the process.,Vui lòng để trình duyệt mở. Không tải lại trang trước khi quá trình được hoàn tất.
+,
+Please fill in your details on the company as fully as possible.,Vui lòng điền đầy đủ thông tin chi tiết về công ty. 
+"You may need this for the general information requirements, terms and conditions, revocation rules or some payment methods.","Điều này có thể giúp ích cho bạn để hoàn tất các yêu cầu về thông tin chung, các điều khoản & điều kiện, quy định thu hồi hoặc một số phương thức thanh toán."
+You can edit or complete all data at any time. You will reach this details over,Bạn có thể chỉnh sửa hoặc hoàn thành dữ liệu bất kỳ lúc nào. Bạn sẽ hoàn thiện chi tiết này
+%s &gt; Configuration,%s và Cài đặt Cấu hình
+System &gt; Configuration &gt; General: Imprint,Hệ thống & Cài đặt Cấu hình & Tổng quan: Ghi chú thông tin phát hành
+Support Center,Trung tâm hỗ trợ

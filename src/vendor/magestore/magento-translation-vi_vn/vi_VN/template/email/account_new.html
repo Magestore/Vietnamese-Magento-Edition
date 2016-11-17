@@ -1,0 +1,45 @@
+<!--@subject Welcome, {{var customer.name}}! @-->
+<!--@vars
+{"store url=\"\"":"Store Url",
+"var logo_url":"Email Logo Image Url",
+"htmlescape var=$customer.name":"Customer Name",
+"store url=\"customer/account/\"":"Customer Account Url",
+"var customer.email":"Customer Email",
+"htmlescape var=$customer.password":"Customer Password"}
+@-->
+
+<!--@styles
+@-->
+
+{{template config_path="design/email/header"}}
+{{inlinecss file="email-inline.css"}}
+
+<table cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td class="action-content">
+            <h1>Chào mừng tới {{var store.getFrontendName()}}.</h1>
+            <p>Để đăng nhập vào site, hãy click <a href="{{store url="customer/account/"}}">Đăng nhập</a> hoặc <a href="{{store url="customer/account/"}}">Tài khoản của tôi</a> ở đầu mỗi trang, sau đó điền địa chỉ email và mật khẩu của bạn.</p>
+            <p class="highlighted-text">
+                Sử dụng thông tin dưới đây để đăng nhập:<br/>
+                <strong>Email</strong>: {{var customer.email}}<br/>
+                <strong>Mật khẩu</strong>: {{htmlescape var=$customer.password}}
+            </p>
+            <p>Khi đăng nhập vào tài khoản, bạn có thể:</p>
+            <ul>
+                <li>Tới bước thanh toán nhanh hơn khi mua hàng</li>
+                <li>Kiểm tra trạng thái đơn hàng của bạn</li>
+                <li>Xem lại những đơn hàng trước</li>
+                <li>Thay đổi thông tin tài khoản</li>
+                <li>Thay đổi mật khẩu</li>
+                <li>Lưu trữ nhiều địa chỉ khác nhau (để giao hàng tới người thân hoặc bạn bè!)</li>
+            </ul>
+            <p>
+                Nếu bạn có bất cứ thắc mắc nào, vui lòng liên hệ với chúng tôi tại
+                <a href="mailto:{{var store_email}}">{{var store_email}}</a>
+                {{depend store_phone}} hoặc gọi tới số <a href="tel:{{var phone}}">{{var store_phone}}</a>{{/depend}}.
+            </p>
+        </td>
+    </tr>
+</table>
+
+{{template config_path="design/email/footer"}}

@@ -1,0 +1,9 @@
+{
+   "name": "magestore/magento-localized-vn",
+   "type": "magento-module",
+   "description": "Vietnam Localization package for Magento Localized",
+   "homepage": "https://github.com/Magestore/MagentoLocalizedVN",
+   "require": {
+      "magento-hackathon/magento-composer-installer": "*"
+   }
+}

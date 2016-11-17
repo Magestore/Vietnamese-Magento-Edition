@@ -1,0 +1,7 @@
+{
+    "name": "magestore/regionmanager",
+    "license": ["GPL-3.0"],
+    "type": "magento-module",
+    "description": "Region Manager extension for Magento",
+    "homepage": "https://github.com/Magestore/Magento-RegionManager-Extension.git"
+}

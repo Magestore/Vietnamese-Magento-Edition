@@ -1,0 +1,51 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "dev-magento_localized",
+
+        "magestore/magento-localized-vn": "dev-master",
+        "magestore/magento-translation-vi_vn": "dev-master",
+
+        "firegento/magesetup": "dev-development",
+        
+        "magestore/onepay": "dev-master",
+        "magestore/giaohangnhanh": "dev-master",
+        "magestore/regionmanager": "dev-master"
+        
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.firegento.com"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/integer-net/magento-composer-installer.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Magestore/MagentoLocalizedVN.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Magestore/Vietnamese-Language-Pack.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Magestore/Magento-Onepay-Extension.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Magestore/Magento-Giaohangnhanh-Extension.git"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/Magestore/Magento-RegionManager-Extension.git"
+        }
+    ],
+    "extra": {
+        "magento-root-dir": "../src",
+        "magento-deploystrategy": "copy",
+        "magento-force": "override"
+    }
+}

@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magestore
+ * 
+ * NOTICE OF LICENSE
+ * 
+ * This source file is subject to the Magestore.com license that is
+ * available through the world-wide-web at this URL:
+ * http://www.magestore.com/license-agreement.html
+ * 
+ * DISCLAIMER
+ * 
+ * Do not edit or add to this file if you wish to upgrade this extension to newer
+ * version in the future.
+ * 
+ * @category    Magestore
+ * @package     Magestore_Regionmanager
+ * @copyright   Copyright (c) 2012 Magestore (http://www.magestore.com/)
+ * @license     http://www.magestore.com/license-agreement.html
+ */
+-->
+<config>
+    <modules>
+        <Magestore_Regionmanager>
+            <version>0.1.0</version>
+        </Magestore_Regionmanager>
+    </modules>
+    <frontend>
+        <routers>
+            <regionmanager>
+                <use>standard</use>
+                <args>
+                    <module>Magestore_Regionmanager</module>
+                    <frontName>regionmanager</frontName>
+                </args>
+            </regionmanager>
+        </routers>
+        <layout>
+            <updates>
+                <regionmanager>
+                    <file>regionmanager.xml</file>
+                </regionmanager>
+            </updates>
+        </layout>
+        <translate>
+            <modules>
+                <Magestore_Regionmanager>
+                    <files>
+                        <default>Magestore_Regionmanager.csv</default>
+                    </files>
+                </Magestore_Regionmanager>
+            </modules>
+        </translate>
+    </frontend>
+    <admin>
+        <routers>
+            <adminhtml>
+                <args>
+                    <modules>
+                        <Magestore_Regionmanager before="Mage_Adminhtml">Magestore_Regionmanager_Adminhtml</Magestore_Regionmanager>
+                    </modules>
+                </args>
+            </adminhtml>
+        </routers>
+    </admin>
+    <adminhtml>
+        <layout>
+            <updates>
+                <regionmanager>
+                    <file>regionmanager.xml</file>
+                </regionmanager>
+            </updates>
+        </layout>
+        <translate>
+            <modules>
+                <Magestore_Regionmanager>
+                    <files>
+                        <default>Magestore_Regionmanager.csv</default>
+                    </files>
+                </Magestore_Regionmanager>
+            </modules>
+        </translate>
+    </adminhtml>   
+    <global>
+        <models>
+            <regionmanager>
+                <class>Magestore_Regionmanager_Model</class>
+                <resourceModel>regionmanager_mysql4</resourceModel>
+            </regionmanager>
+            <regionmanager_mysql4>
+                <class>Magestore_Regionmanager_Model_Mysql4</class>
+                <entities>
+                    <region>
+                        <table>directory_country_region</table>
+                    </region>
+                    <city>
+                        <table>directory_country_region_name</table>
+                    </city>
+                </entities>
+            </regionmanager_mysql4>
+        </models>
+        <resources>
+            <regionmanager_setup>
+                <setup>
+                    <module>Magestore_Regionmanager</module>
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </regionmanager_setup>
+            <regionmanager_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </regionmanager_write>
+            <regionmanager_read>
+                <connection>
+                    <use>core_read</use>
+                </connection>
+            </regionmanager_read>
+        </resources>
+        <blocks>
+            <regionmanager>
+                <class>Magestore_Regionmanager_Block</class>
+            </regionmanager>
+        </blocks>
+        <helpers>
+            <regionmanager>
+                <class>Magestore_Regionmanager_Helper</class>
+            </regionmanager>
+        </helpers>
+    </global>
+</config>

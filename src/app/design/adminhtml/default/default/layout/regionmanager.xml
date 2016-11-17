@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magestore
+ * 
+ * NOTICE OF LICENSE
+ * 
+ * This source file is subject to the Magestore.com license that is
+ * available through the world-wide-web at this URL:
+ * http://www.magestore.com/license-agreement.html
+ * 
+ * DISCLAIMER
+ * 
+ * Do not edit or add to this file if you wish to upgrade this extension to newer
+ * version in the future.
+ * 
+ * @category    Magestore
+ * @package     Magestore_Regionmanager
+ * @copyright   Copyright (c) 2012 Magestore (http://www.magestore.com/)
+ * @license     http://www.magestore.com/license-agreement.html
+ */
+-->
+<layout version="0.1.0">
+    <default>
+        <reference name="head">
+            <action method="addJs">
+                <script>magestore/regionmanager.js</script>
+            </action>
+        </reference>	
+    </default>     
+	
+	<regionmanager_update>
+        <reference name="content">
+            <block type="regionmanager/region" name="regionmanager-region" after="-" template="regionmanager/region.phtml" />
+        </reference>
+    </regionmanager_update>
+	<adminhtml_customer_edit>
+        <update handle="regionmanager_update" />
+    </adminhtml_customer_edit>
+	
+    <adminhtml_regionmanager_region_index>
+        <reference name="content">
+            <block type="regionmanager/adminhtml_region" name="region_manager" />
+        </reference>
+    </adminhtml_regionmanager_region_index>
+    <adminhtml_regionmanager_city_index>
+        <reference name="content">
+            <block type="regionmanager/adminhtml_city" name="city_manager" />
+        </reference>
+    </adminhtml_regionmanager_city_index>
+</layout>

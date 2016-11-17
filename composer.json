@@ -1,0 +1,6 @@
+{
+   "name": "magestore/magento-vietnam",
+   "type": "magento-module",
+   "description": "Base package for Vietnamese Magento Edition",
+   "homepage": "https://github.com/Magestore/Vietnamese-Magento-Edition.git"
+}
