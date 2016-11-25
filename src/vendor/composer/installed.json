@@ -340,18 +340,18 @@
         "source": {
             "type": "git",
             "url": "https://github.com/Magestore/MagentoLocalizedVN.git",
-            "reference": "c223c8a224c7a0f841a2492b1801daccbd552121"
+            "reference": "b4fdd9ae1e2b27c9d66e0c70056b011a8d8d6568"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Magestore/MagentoLocalizedVN/zipball/c223c8a224c7a0f841a2492b1801daccbd552121",
-            "reference": "c223c8a224c7a0f841a2492b1801daccbd552121",
+            "url": "https://api.github.com/repos/Magestore/MagentoLocalizedVN/zipball/b4fdd9ae1e2b27c9d66e0c70056b011a8d8d6568",
+            "reference": "b4fdd9ae1e2b27c9d66e0c70056b011a8d8d6568",
             "shasum": ""
         },
         "require": {
             "magento-hackathon/magento-composer-installer": "*"
         },
-        "time": "2016-11-15 07:21:30",
+        "time": "2016-11-22 02:58:42",
         "type": "magento-module",
         "installation-source": "source",
         "description": "Vietnam Localization package for Magento Localized",
