@@ -94,9 +94,9 @@
                     <region>
                         <table>directory_country_region</table>
                     </region>
-                    <city>
-                        <table>directory_country_region_name</table>
-                    </city>
+					<city>
+						<table>directory_region_city</table>
+					</city>
                 </entities>
             </regionmanager_mysql4>
         </models>
@@ -131,4 +131,11 @@
             </regionmanager>
         </helpers>
     </global>
+    <default>
+        <regionmanager>
+            <general>
+                <enable>1</enable>
+            </general>
+        </regionmanager>
+    </default>	
 </config>

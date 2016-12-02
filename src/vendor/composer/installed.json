@@ -396,12 +396,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/firegento/firegento-magesetup.git",
-            "reference": "6b7cf80ca1254808116c1226bfc70f7130c0e11d"
+            "reference": "e7b17f0d87b5ee33dc0db57a83aae15fc129e453"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/firegento/firegento-magesetup/zipball/6b7cf80ca1254808116c1226bfc70f7130c0e11d",
-            "reference": "6b7cf80ca1254808116c1226bfc70f7130c0e11d",
+            "url": "https://api.github.com/repos/firegento/firegento-magesetup/zipball/e7b17f0d87b5ee33dc0db57a83aae15fc129e453",
+            "reference": "e7b17f0d87b5ee33dc0db57a83aae15fc129e453",
             "shasum": ""
         },
         "require": {
@@ -411,7 +411,7 @@
             "firegento/mage-ci": "master-dev",
             "phpunit/phpunit": "4.1.*@dev"
         },
-        "time": "2016-09-19 13:33:07",
+        "time": "2016-11-30 21:59:20",
         "type": "magento-module",
         "extra": {
             "magento-root-dir": "test/",
@@ -599,15 +599,15 @@
         "source": {
             "type": "git",
             "url": "https://github.com/Magestore/Magento-Giaohangnhanh-Extension.git",
-            "reference": "11e36dc92410c581f25116296a47c745f9896e91"
+            "reference": "5bcba376b57ba9e379b352f65f0e182027ff1466"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Magestore/Magento-Giaohangnhanh-Extension/zipball/11e36dc92410c581f25116296a47c745f9896e91",
-            "reference": "11e36dc92410c581f25116296a47c745f9896e91",
+            "url": "https://api.github.com/repos/Magestore/Magento-Giaohangnhanh-Extension/zipball/5bcba376b57ba9e379b352f65f0e182027ff1466",
+            "reference": "5bcba376b57ba9e379b352f65f0e182027ff1466",
             "shasum": ""
         },
-        "time": "2016-11-17 01:46:55",
+        "time": "2016-12-02 06:51:53",
         "type": "magento-module",
         "installation-source": "source",
         "license": [
@@ -627,15 +627,15 @@
         "source": {
             "type": "git",
             "url": "https://github.com/Magestore/Magento-RegionManager-Extension.git",
-            "reference": "0114746a7e2fa6bcd8efc76cc244ec827f95d20d"
+            "reference": "db0481577fa7e3c2fe956241ffa304f5947e9538"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Magestore/Magento-RegionManager-Extension/zipball/0114746a7e2fa6bcd8efc76cc244ec827f95d20d",
-            "reference": "0114746a7e2fa6bcd8efc76cc244ec827f95d20d",
+            "url": "https://api.github.com/repos/Magestore/Magento-RegionManager-Extension/zipball/db0481577fa7e3c2fe956241ffa304f5947e9538",
+            "reference": "db0481577fa7e3c2fe956241ffa304f5947e9538",
             "shasum": ""
         },
-        "time": "2016-11-17 01:37:30",
+        "time": "2016-12-02 06:51:35",
         "type": "magento-module",
         "installation-source": "source",
         "license": [
