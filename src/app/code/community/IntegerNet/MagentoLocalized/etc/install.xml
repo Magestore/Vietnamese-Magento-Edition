@@ -80,12 +80,12 @@
                 <image_filename>magento_localized/magento-edition-pl.jpg</image_filename>
                 <locale_package>snowdog-apps/magento-translation-pl_pl</locale_package>
             </pl>
-            <pl>
+            <vn>
                 <name>Magento VN - Vietnam</name>
                 <module_package>magestore/magento-localized-vn</module_package>
                 <image_filename>magento_localized/magento-edition-vn.jpg</image_filename>
                 <locale_package>magestore/magento-translation-vi_vn</locale_package>
-            </pl>
+            </vn>
         </editions>
         <ebay_edition>
             <module_package>integer-net/magento-localized-ebay</module_package>
